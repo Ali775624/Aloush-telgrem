@@ -10,9 +10,9 @@ from sys import exit
 THREADS = 400
 LOGO = '''
    ~ Telegram Auto Views V3 ~
-     ~ Dev: @G5_F1 ~
-          ~ Ch1: @Xx_MO_ON_xX ~
-          ~ Ch2: @hmsfails ~
+     ~ Dev: @Termux7 ~
+          ~ قناة الخال: @Driving_uncle_personally ~
+          ~ Ch2: @Driving_uncle_personally ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
