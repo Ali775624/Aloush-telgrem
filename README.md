@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/Ali775624/Aloush-telgrem
 ls
-cd Free-views-Telegram-
+cd Aloush-telgrem
 ls
 python main.py
 ```
