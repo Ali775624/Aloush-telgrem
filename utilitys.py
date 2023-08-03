@@ -11,8 +11,8 @@ THREADS = 400
 LOGO = '''
    ~ Telegram Auto Views V3 ~
      ~ Dev: @Termux7 ~
-          ~ قناة الخال: @Driving_uncle_personally ~
-          ~ Ch2: @Driving_uncle_personally ~
+          ~ Ch1: @Termux7 ~
+          ~ Ch2: @Termux7 ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
@@ -62,5 +62,4 @@ def display():
         ''')
     
     return inner
-
 
